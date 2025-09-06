@@ -62,7 +62,8 @@ st.markdown("""
 - Fill missing 'medal' values with 'No Medal'.
 - Merge with main dataset on 'athlete_id'.
 """)
-results = pd.read_csv('Olymps_results.csv')
+results = pd.read_csv("https://drive.google.com/uc?export=download&id=1hh3CXi2rhPUCAAVmcVTCuu8rPxvoo0W4")
+# In order to bypass the size limit on GitHub, we can first upload our csv to google drive and get a direct link. 
 results = results.drop(columns=['team'])
 results['medal'] = results['medal'].fillna('No Medal')
 
