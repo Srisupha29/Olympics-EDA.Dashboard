@@ -17,4 +17,5 @@ An Exploratory Data Analysis (EDA) dashboard built using Streamlit and Jupyter N
 <img width="850" height="517" alt="Screenshot 2568-09-06 at 23 20 06" src="https://github.com/user-attachments/assets/9dd8fa26-13ce-4f91-ab68-d2a8e005f594" />
 <img width="820" height="750" alt="Screenshot 2568-09-06 at 23 21 05" src="https://github.com/user-attachments/assets/530bb977-980f-420b-a6d1-c792e99b4214" />
 
-
+## Live Demo: 
+https://olympics-edadashboard-miwclg9fi8srjjwaqd4tt4.streamlit.app/
